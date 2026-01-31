@@ -1,0 +1,17 @@
+{
+    "name": "Zylis Brand Colors",
+    "colors": {
+        "cyan": {
+            "hex": "#00CAD6",
+            "name": "Zylis Cyan"
+        },
+        "charcoal": {
+            "hex": "#333333",
+            "name": "Dark Charcoal"
+        },
+        "white": {
+            "hex": "#FFFFFF",
+            "name": "White"
+        }
+    }
+}
