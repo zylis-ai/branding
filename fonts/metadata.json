@@ -1,0 +1,21 @@
+{
+    "family": "Figtree",
+    "styles": {
+        "logo": {
+            "weight": "ExtraBold",
+            "value": 800,
+            "file": "Figtree-ExtraBold.ttf",
+            "usage": "Primary Logo, Headlines"
+        },
+        "body": {
+            "weight": "Regular",
+            "value": 400,
+            "file": "Figtree-Regular.ttf",
+            "usage": "Body Text, UI Elements"
+        }
+    },
+    "sources": {
+        "google_fonts": "https://fonts.google.com/specimen/Figtree",
+        "cdn_import": "https://fonts.googleapis.com/css2?family=Figtree:wght@400;800&display=swap"
+    }
+}
