@@ -2,6 +2,16 @@
 
 This repository contains official logos, fonts, and color palettes for Zylis.
 
+## Directory Structure
+
+- **[colors](colors/README.md)**: Official brand color palettes.
+- **[fonts](fonts/README.md)**: Typefaces and font files.
+- **[logos](logos/README.md)**: Logo variations for web, print, and social media.
+
+## Usage
+
+Please refer to the README in each subdirectory for specific usage guidelines and asset details.
+
 ## License
 
 **Copyright © 2026 Zylis.**
